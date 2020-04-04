@@ -8,7 +8,7 @@ from .frontend import frontend
 
 
 def create_app():
-    app = Flask('flask_cra_example')
+    app = Flask('flask-react-example')
     # Using the shared data middleware we can let the Flask app serve everything,
     # but you need to do a `npm run build` for it which creates a production-like
     # build.  For an actual production deployment you would have your web server
