@@ -1,3 +1,9 @@
 Flask
 Werkzeug
 gunicorn
+Jinja2
+MarkupSafe
+psycopg2
+pytz
+six
+SQLAlchemy
