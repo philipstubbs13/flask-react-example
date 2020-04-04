@@ -1,1 +1,1 @@
-web: gunicorn flask-react-example:app
+web: gunicorn flask-react-example.app:app
